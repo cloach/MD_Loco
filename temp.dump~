@@ -1,0 +1,18 @@
+1 0.0 0.0 0.0 0.012808954653481142 0.0 0.0
+2 0.5 0.0 0.0 -0.012808954653481142 0.0 0.0
+ 
+pairEnergy = -6.097894546041582E-5
+pairEnergyPerAtom = -3.048947273020791E-5
+pairForce = -9.146702373618618E-5
+pairForcePerAtom = -4.573351186809309E-5
+totPairForceVector: x: 0.0 y: 0.0 z: 0.0 mag: 0.0
+totPairForceVectorMag = 0.0
+totalEmbedVectorMagx: 0.00000, y: 0.00000,z: 0.00000, mag: 0.00000
+EmbeddingEnergy = -0.1714482255222119
+EmbeddingEnergyPerAtom = -0.08572411276110595
+EmbeddingForce = -0.10965406357667021
+EmbeddingForcePerAtom = -0.054827031788335104
+TotalEnergy = -0.17150920446767232
+TotalEnergyPerAtom = -0.08575460223383616
+TotalForce = -0.1097455306004064
+TotalForcePerAtom = -0.0548727653002032
