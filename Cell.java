@@ -13,7 +13,7 @@ public class Cell {
 	while(scan.hasNext()) {
 	    String atomLine = scan.nextLine();
 	    atomLine = atomLine.trim();
-	    String[] atomLineList = atomLine.split(" ");
+	    String[] atomLineList = atomLine.split("\\s+");
 	    int atomNumber = Integer.parseInt(atomLineList[0]);
 	    double xValue = Double.parseDouble(atomLineList[1]);
 	    double yValue = Double.parseDouble(atomLineList[2]);
